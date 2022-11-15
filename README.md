@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Altynbek Mamasadykov</h1>
 <h3 align="center">Backend developer from Kyrgyzstan</h3>
 
-- 🔭 I’m currently working on [Airbnb.kg](https://github.com/peaksoft-school/airbnb)
+- 🔭 My last project [Airbnb.kg](https://github.com/peaksoft-school/airbnb)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Automated Testing in JAVA**
 
 - 💬 Ask me about **Java**
 
