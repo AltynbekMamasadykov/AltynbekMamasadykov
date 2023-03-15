@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Automated Testing in JAVA**
 
+- 🌱 I’m currently Java mentor in [CodeWise Academy](https://www.instagram.com/codewise.academy/)
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **asanbaiortosaev@gmail.com**
